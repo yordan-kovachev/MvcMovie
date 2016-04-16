@@ -1,0 +1,110 @@
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Owin.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\WebGrease.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+c:\users\spark2\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Owin.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
